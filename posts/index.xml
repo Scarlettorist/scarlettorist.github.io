@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wanyang&#39;s Park</title>
-    <link>https://wanyang.link/</link>
-    <description>Recent content on Wanyang&#39;s Park</description>
+    <title>Posts on Wanyang&#39;s Park</title>
+    <link>https://wanyang.link/posts/</link>
+    <description>Recent content in Posts on Wanyang&#39;s Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Oct 2018 18:02:56 +0800</lastBuildDate>
     
-	<atom:link href="https://wanyang.link/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wanyang.link/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
